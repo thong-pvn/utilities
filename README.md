@@ -18,9 +18,8 @@ export DART_VM_OPTIONS=--root-certs-file=/home/thongpv1/certs/certs.pem
 
 
 - 
-
---Drivers download official
---Paint 3D
+-Drivers download official
+-Paint 3D
 --VLC
 --Facebook Messenger Windows
 WPS Office
