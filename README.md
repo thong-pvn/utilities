@@ -19,10 +19,10 @@ export DART_VM_OPTIONS=--root-certs-file=/home/thongpv1/certs/certs.pem
 
 - 
 
-Drivers download official
-Paint 3D
-VLC
-Facebook Messenger Windows
+--Drivers download official
+--Paint 3D
+--VLC
+--Facebook Messenger Windows
 WPS Office
 Dropbox
 Google Drive
@@ -38,3 +38,4 @@ GeForce Experience
 Evkey
 Rainmeter
 Advanced System Font Changer
+uxthemepatcher
