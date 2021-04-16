@@ -40,3 +40,11 @@ Advanced System Font Changer
 uxthemepatcher
 
 https://anonyviet.com/5-bo-theme-danh-cho-windows-10/
+https://www.deviantart.com/dpcdpc11/art/Simplify-Big-Sur-Windows-Cursors-849700326
+https://www.deviantart.com/dpcdpc11/art/Simplify-Pointy-Windows-Cursors-842505274
+
+
+
+
+
+
