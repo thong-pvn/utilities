@@ -49,6 +49,21 @@ https://freetuts.net/thu-thuat/lot-xac-windows-10-voi-bo-theme-sieu-dep-985t.htm
 
 https://api.github.com/repos/microsoft/winget-pkgs/git/trees/master?recursive=1
 
+# GET https://winstall.app/assets/apps/teams.webp
 
+# https://api.winstall.app/icons/Microsoft.Teams.png
+
+# https://api.winstall.app/icons/Valve.Steam.png
+
+# https://winstall.app/api/auth/session
+
+# https://winstall.app/apps/Microsoft.Teams
+
+# https://winstall.app/apps/Microsoft.Teams
+
+# https://winstall.app/assets/logo.svg
+
+
+https://api.github.com/repos/microsoft/winget-pkgs/git/trees/master?recursive=1
 
 
