@@ -66,4 +66,8 @@ https://api.github.com/repos/microsoft/winget-pkgs/git/trees/master?recursive=1
 
 https://api.github.com/repos/microsoft/winget-pkgs/git/trees/master?recursive=1
 
+https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/6/64Gram/64Gram/1.0.37/64Gram.64Gram.locale.en-US.yaml
+
+https://stackoverflow.com/questions/48191942/using-github-api-to-retrieve-files-with-specific-extension
+
 
