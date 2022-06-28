@@ -74,3 +74,5 @@ https://stackoverflow.com/questions/48191942/using-github-api-to-retrieve-files-
 https://www.smarthomebeginner.com/docker-media-server-2022/
 
 https://www.smarthomebeginner.com/docker-home-media-server-2018-basic/
+
+https://github.com/PlugFox/docker_flutter/blob/master/dockerfiles/flutter_android.dockerfile
