@@ -78,3 +78,5 @@ https://www.smarthomebeginner.com/docker-home-media-server-2018-basic/
 https://github.com/PlugFox/docker_flutter/blob/master/dockerfiles/flutter_android.dockerfile
 
 https://github.com/budtmo/docker-android
+
+https://morioh.com/p/0ec7c1a6f9b0
