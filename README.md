@@ -86,3 +86,5 @@ https://hub.docker.com/r/mingc/android-build-box/
 https://libs.garden/docker/Purik/android-studio-docker
 
 https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
+
+https://github.com/HoanKy/docker_tutorial/tree/rails_mysql_optimum
