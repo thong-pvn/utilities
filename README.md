@@ -88,3 +88,9 @@ https://libs.garden/docker/Purik/android-studio-docker
 https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b
 
 https://github.com/HoanKy/docker_tutorial/tree/rails_mysql_optimum
+
+sudo apt-get install docker.io -y
+
+docker run --rm -d  --privileged=true -v /var/run/docker.sock:/var/run/docker.sock -p 8080:8080/tcp -p 8100:8100/tcp -p 8101:8101/tcp dart_flutter_web:latest
+
+
