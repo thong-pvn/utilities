@@ -1,0 +1,80 @@
+scoop bucket add main
+scoop bucket add java
+scoop bucket add extras
+scoop install gsudo
+scoop install dotnet-sdk
+scoop install 7zip
+scoop install temurin-jdk
+scoop install advanced-ip-scanner
+scoop install anaconda3
+scoop install clink
+scoop install cmake
+scoop install everything
+scoop install git
+scoop install go
+scoop install googlechrome
+scoop install qtranslate
+scoop install libgen-desktop
+scoop install megasync
+scoop install vcredist-aio
+scoop install vscode
+scoop install nodejs-lts
+scoop install notion
+scoop install oh-my-posh
+scoop install openssh
+scoop install quicklook
+scoop install rainmeter
+scoop install rufus
+scoop install steam
+scoop install sumatrapdf
+scoop install vlc
+scoop install winmerge
+scoop install hwinfo
+scoop install windows-terminal
+scoop install coretemp
+
+# cloudflare-warp
+scoop bucket add StarsbySea_ocean https://github.com/StarsbySea/ocean
+scoop install cloudflare-warp
+# BlueStacks
+scoop bucket add tomcdj71_scoop-essential-apps https://github.com/tomcdj71/scoop-essential-apps
+scoop install bluestacks5
+# DirectX
+scoop install dxwrapper
+
+# DockerDesktop
+shovel bucket add 'ash258.ash258' 'https://github.com/Ash258/Shovel-Ash258.git'
+scoop install ash258.ash258/docker
+
+# EverythingToolbar
+scoop bucket add ba230t_scoop-bucket https://github.com/ba230t/scoop-bucket
+scoop install everythingtoolbar
+
+# ExplorerPatcher
+scoop bucket add ACooper81_scoop-apps https://github.com/ACooper81/scoop-apps
+scoop install ExplorerPatcher-Install
+
+# Grammarly
+shovel bucket add 'ash258.ash258' 'https://github.com/Ash258/Shovel-Ash258.git'
+scoop install ash258.ash258/Grammarly
+
+# HashTools
+scoop bucket add BluYous_ScoopBucket https://github.com/BluYous/ScoopBucket
+scoop install HashTools
+
+# LivelyWallpaper
+scoop bucket add Weidows-projects_scoop-3rd https://github.com/Weidows-projects/scoop-3rd
+scoop install Lively-Wallpaper
+
+# GeForceExperience
+scoop bucket add gregwen_grewen-scoop https://github.com/gregwen/grewen-scoop
+scoop install nvidia-geforce-experience-np
+
+# DesktopEditors
+scoop bucket add extras
+scoop install onlyoffice-desktopeditors
+
+# PathCopyCopy
+scoop bucket add ImMakSpy_scoop-bucket-iammakspy https://github.com/ImMakSpy/scoop-bucket-iammakspy
+scoop install pathcopycopy-ims
+
