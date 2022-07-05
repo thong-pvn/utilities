@@ -78,3 +78,24 @@ scoop install onlyoffice-desktopeditors
 scoop bucket add ImMakSpy_scoop-bucket-iammakspy https://github.com/ImMakSpy/scoop-bucket-iammakspy
 scoop install pathcopycopy-ims
 
+
+
+
+
+scoop install hex-editor-neo
+scoop install curl
+scoop install beekeeper-studio
+scoop install clink
+scoop install cloc
+scoop install imagemagick
+scoop install oh-my-posh
+scoop install opennetmeter
+scoop install rufus
+scoop install flutter
+scoop install grepwin
+scoop install powertoys-np
+scoop install curl
+scoop install postman
+scoop install winget
+scoop install vim
+scoop install translucenttb
